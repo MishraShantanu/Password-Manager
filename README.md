@@ -5,7 +5,7 @@ Author: Shantanu Mishra
 Usage: Its a Python program to store and manage the passwords by storing them in and CVS.
 Program ask user to add, view and remove passwords. Passwords are stored in encrypted format in csv.
 
-# python library Dependencies: 
+# Python library Dependencies: 
               1. Python 3.8
               2. cryptography.fernet 35.0.0
               3. csv
