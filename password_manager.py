@@ -1,7 +1,7 @@
 """password_manager.py: Stores user password in encrypted format."""
 
 __author__ = "Shantanu Mishra @ "
-__email__ = "shantanu.mishra@usask.ca"
+
 
 from cryptography.fernet import Fernet
 import csv
