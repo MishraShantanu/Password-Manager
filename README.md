@@ -2,8 +2,8 @@
 Program name: Password Manager
 Author: Shantanu Mishra
 
-Usage: Its a Python program to store and manage the passwords by storing them in and CVS.
-Program ask user to add, view and remove passwords. Passwords are stored in encrypted format in csv.
+Usage: Python program to store and manage the passwords by storing them in and CSV. 
+The program asks the user to add, view, and remove passwords. Passwords are stored in encrypted format in CSV. 
 
 # Python library Dependencies: 
               1. Python 3.8
